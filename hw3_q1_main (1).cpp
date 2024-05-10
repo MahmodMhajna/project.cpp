@@ -18,8 +18,8 @@ using namespace std;
 
 int main()
 {
-	cout << 323001206 << endl;
-	cout << 322513433 << endl;
+	cout << 323001245 << endl;
+	cout << 322513444 << endl;
 	int k = 0;
 	cout << "Please choose the maximum item capacity" << endl;
 	cin >> k;
